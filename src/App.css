@@ -1,0 +1,21 @@
+main {
+  text-align: center;
+  vertical-align: center;
+  line-height: 100vh
+}
+
+.container {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+img {
+  width: 100px;
+}
+
+.pokemon,
+.types {
+  border: solid 10px black;
+  display: flex;
+  justify-content: space-around;
+}
